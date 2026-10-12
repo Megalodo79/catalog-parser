@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5
+openpyxl>=3.1
+matplotlib>=3.8  # только для make_preview.py
+pytest
